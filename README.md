@@ -6,7 +6,7 @@ Testando pop-up em JavaScript.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 JavaScript
 
 ## ✒️ Autor
